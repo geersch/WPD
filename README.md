@@ -1,7 +1,7 @@
 Windows Portable Devices (WDP) API
 ==================================
 
-Example usage of the Windows Portable Devices (WDP) API in C#.
+A 5-part series tutorial on how to use the Windows Portable Devices (WDP) API in C#.
 
 You can find more information about the code on my blog.
 

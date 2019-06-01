@@ -1,7 +1,7 @@
-Windows Portable Devices (WDP) API
+Windows Portable Devices (WPD) API
 ==================================
 
-A 5-part series tutorial on how to use the Windows Portable Devices (WDP) API in C#.
+A 5-part series tutorial on how to use the Windows Portable Devices (WPD) API in C#.
 
 You can find more information about the code on my blog.
 
